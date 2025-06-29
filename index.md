@@ -1,6 +1,6 @@
 # Bienvenido a r00tbegginer
 
-![Portada](images/portada.png)
+![Portada](Images/portada.png)
 
 Este es mi blog para walkthroughs de hacking ético
 
