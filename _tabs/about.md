@@ -6,25 +6,16 @@ order: 4
 
 <hr>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="height:auto; width: 350px;">
-    <a href="https://app.hackthebox.com/profile/2087281">
-      <img src="https://www.hackthebox.eu/badge/image/2087281" alt="HTB Profile Badge" 
-        style="width: 350px; height: 78px; border-radius: 15px; display: block; box-shadow: 0 0 5px 1px rgba(0, 255, 0, 0.7);"/>
-    </a>
-  </div>
+Hi, I'm **R00tBegginer**, a cybersecurity enthusiast from **Valencia, Spain**.
 
-  <div style="height:auto; width: 350px;">
-    <a href="https://tryhackme.com/r/p/whare1">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/whare1.png" alt="THM Badge" />
-    </a>
-  </div>
-</div>
+I have studied **ASIR (Systems Administration and Network Management)** and hold the **eJPT** certification.  
+I'm passionate about ethical hacking, pentesting, and all things cybersecurity.
 
+I enjoy sharing posts, tools, and write-ups, as well as discovering resources contributed by the community.  
+This blog is my personal space to document what I learn, share useful content, and keep growing in this exciting field.
 
-Hi, I'm **whare1**, a passionate cybersecurity enthusiast from **Valencia, Spain**. I specialize in ethical hacking and penetration testing, exploring various aspects of cybersecurity, from **network exploitation** to **vulnerability assessments** and **writeups**.
+If you have tools, tips, or interesting challenges, feel free to reach out — I'm always open to learning more.
 
-I take pride in breaking down complex concepts and sharing my findings through detailed blog posts and tutorials. My goal is to continuously learn, improve, and contribute to the cybersecurity community.
+Thanks for visiting! 🚀
 
-Feel free to explore my **blog** to see some of my work and contributions!
-![netrunner](/assets/images/netrunner.gif)
+![netrunner](/assets/1.png)

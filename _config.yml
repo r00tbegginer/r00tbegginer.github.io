@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: R0 # the main title
+title: R00tBegginer # the main title
 
 tagline: Welcome to my blog, where I'll be sharing the notes I gather in Obsidian.
 
@@ -25,23 +25,23 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://whare1.github.io"
+url: "https://R00tBegginer.github.io"
 
 github:
-  username: whare1 # change to your GitHub username
+  username: R00tBegginer # change to your GitHub username
 
 twitter:
-  username: eswhare1 # change to your Twitter username
+  username: R00tBegginer # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Whare1
-  email: whare1cyber@gmail.com # change to your email address
+  name: R00tBegginer
+  email: R00tBegginer@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/eswhare1 # change to your Twitter homepage
-    - https://github.com/whare1 # change to your GitHub homepage
+    - https://twitter.com/R00tBegginer # change to your Twitter homepage
+    - https://github.com/R00tBegginer # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -100,7 +100,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/182862159?v=4
+avatar: https://avatars.githubusercontent.com/u/185824422?v=4&size=64
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
